@@ -30,6 +30,18 @@ A simple Python terminal-based Number Guessing Game where the program randomly s
 
 ---
 
+### 📌 Project 3: Rock-Paper-Scissors Game
+A Python terminal-based Rock-Paper-Scissors game where the user plays against the computer. The game continues until the player chooses to quit. It keeps track of the total wins for both the player and the computer, declaring results after each round.
+
+**Concepts practiced:**
+- Handling user input with validation.
+- Generating random computer choices.
+- Using conditionals to determine round outcomes.
+- Implementing game loops for repeated play.
+- Tracking scores across multiple rounds.
+
+---
+
 ## 🎯 Purpose
 
 This repository is meant to:
