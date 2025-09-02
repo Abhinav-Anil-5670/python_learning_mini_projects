@@ -42,6 +42,17 @@ A Python terminal-based Rock-Paper-Scissors game where the user plays against th
 
 ---
 
+### 📌 Project 4: Text Adventure Game
+A simple terminal-based text adventure where the user makes choices that determine their fate. The app presents scenarios, takes input, and branches the story based on decisions. Each choice leads to different outcomes, including success or failure.
+
+**Concepts practiced:**
+- Taking user input.
+- Conditional statements.
+- Nested branching logic.
+- Storytelling through code.
+
+---
+
 ## 🎯 Purpose
 
 This repository is meant to:
