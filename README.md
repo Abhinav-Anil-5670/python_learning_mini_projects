@@ -53,6 +53,19 @@ A simple terminal-based text adventure where the user makes choices that determi
 
 ---
 
+### 📌 Project 5: Command-Line Password Manager
+This is a simple, terminal-based application for securely storing and managing account passwords. The app allows users to add new account credentials and view existing ones. All passwords are encrypted before being saved to a local file, ensuring they are not stored in plain text.
+
+The project uses the cryptography library to handle the encryption and decryption of passwords, providing a basic layer of security.
+
+**Concepts practiced:**
+- File I/O: Reading from and writing to text files (passwords.txt, key.key) using different modes ('r', 'w', 'a', 'rb', 'wb').
+- Using External Libraries: Installing and utilizing third-party packages like cryptography to add advanced functionality.
+- Understanding the basic workflow of encrypting data before writing it and decrypting it after reading.
+- Working with different data types and converting between them (e.g., strings to bytes with .encode() and bytes to strings with .decode()).
+
+---
+
 ## 🎯 Purpose
 
 This repository is meant to:
