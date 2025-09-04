@@ -66,6 +66,18 @@ The project uses the cryptography library to handle the encryption and decryptio
 
 ---
 
+### 📌 Project 6: Dice Game (Pig-Style Scoring)
+This is a simple, interactive dice game playable in the terminal. The game supports 2–4 players, each taking turns to roll a die and accumulate points. Players can roll as many times as they want during their turn, but rolling a 1 resets their turn’s score to zero and ends the turn. The first player to reach or exceed 50 points wins, but all players still get to complete the current round before the winner is declared.
+
+**Concepts practiced:**
+- Loops and Conditionals: Using while and for loops along with nested conditionals to handle turn logic and game progression.
+- Random Number Generation: Using Python’s random module to simulate dice rolls.
+- Data Structures: Storing player scores in a list and updating values dynamically.
+- Input Handling: Validating user input for number of players and in-game decisions.
+- Game Logic Design: Managing rounds, enforcing rules (like resetting score on rolling a 1), and fairly determining a winner.
+
+---
+
 ## 🎯 Purpose
 
 This repository is meant to:
